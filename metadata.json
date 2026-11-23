@@ -1,0 +1,8 @@
+{
+  "name": "Mühendislik Analitik Platformu (MAP)",
+  "description": "Demir-çelik ve proses mühendisleri için yapay zeka destekli Türkçe istatistik, Altı Sigma, SPC, DOE, güvenilirlik ve makine öğrenmesi analiz platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
